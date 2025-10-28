@@ -70,14 +70,14 @@ STRING5 = getenv("STRING_SESSION5")
 
 # ───── Bot Media Assets ───── #
 START_VIDS = [
-    "https://files.catbox.moe/rvmybh.jpg",
-    "https://files.catbox.moe/7nzwqw.jpg",
-    "https://files.catbox.moe/n44bsi.jpg"
+    "https://files.catbox.moe/uyfhoe.mp4",
+    "https://files.catbox.moe/4597ve.mp4",
+    "https://files.catbox.moe/uyfhoe.mp4"
 ]
 
 STICKERS = [
-    "none",
-    "none"
+    "CAACAgUAAx0Cd6nKUAACATJl_rsEJOsaaPSYGhU7bo7iEwL8AAPMDgACu2PYV8Vb8aT4_HUPHgQ",
+    "CAACAgUAAx0Cd6nKUAACASBl_rnalOle6g7qS-ry-aZ1ZpVEnwACgg8AAizLEFfI5wfykoCR4h4E",
 ]
 HELP_IMG_URL = "https://files.catbox.moe/h3jqa8.jpg"
 PING_VID_URL = "https://files.catbox.moe/mi8nr0.mp4"
