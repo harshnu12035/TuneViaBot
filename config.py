@@ -79,10 +79,10 @@ STICKERS = [
     "CAACAgUAAx0Cd6nKUAACATJl_rsEJOsaaPSYGhU7bo7iEwL8AAPMDgACu2PYV8Vb8aT4_HUPHgQ",
     "CAACAgUAAx0Cd6nKUAACASBl_rnalOle6g7qS-ry-aZ1ZpVEnwACgg8AAizLEFfI5wfykoCR4h4E",
 ]
-HELP_IMG_URL = "https://files.catbox.moe/h3jqa8.jpg"
-PING_VID_URL = "https://files.catbox.moe/mi8nr0.mp4"
+HELP_IMG_URL = "https://files.catbox.moe/igpdrz.jpg"
+PING_VID_URL = "https://files.catbox.moe/igpdrz.jpg"
 PLAYLIST_IMG_URL = "https://files.catbox.moe/t72ntd.jpg"
-STATS_VID_URL = "https://files.catbox.moe/5vdaw5.mp4"
+STATS_VID_URL = "https://files.catbox.moe/igpdrz.jpg"
 TELEGRAM_AUDIO_URL = "https://files.catbox.moe/90juvd.jpg"
 TELEGRAM_VIDEO_URL = "https://files.catbox.moe/7qplwr.jpg"
 STREAM_IMG_URL = "https://files.catbox.moe/4roh51.jpg"
